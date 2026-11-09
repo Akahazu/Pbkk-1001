@@ -1,6 +1,4 @@
-# PBKK 1001 - Sistem Informasi Akademik
-
-Proyek ini dibuat untuk memenuhi Tugas Mingguan Pertemuan 10 mata kuliah **Pemrograman Berbasis Kerangka Kerja (PBKK)**.
+# PBKK Tugas Mingguan 10 - Sistem Informasi Akademik
 
 Aplikasi ini mengimplementasikan **Admin Dashboard**, **Role-Based Access Control (RBAC)**, dan **Sistem Penilaian Mahasiswa** menggunakan framework Laravel.
 
